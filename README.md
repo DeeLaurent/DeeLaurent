@@ -23,7 +23,6 @@ Passionné par la création d'applications web et de logiciels robustes. J'aime 
 
 ---
 
-## 📈 Mes Statistiques GitHub
+## 📬 Me contacter
 
-![Mon GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DeeLaurent&theme=dark)
-![Mes Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=DeeLaurent&layout=compact&theme=dark)
+* **Email** : [hdeelaurent@gmail.com]
